@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dkr8wdlgdth5y"
+path="res://.godot/imported/Boombap HH Closed.wav-ce56f5ffebbb807c0e2f92cddfc5035f.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap HH Closed.wav"
+dest_files=["res://.godot/imported/Boombap HH Closed.wav-ce56f5ffebbb807c0e2f92cddfc5035f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

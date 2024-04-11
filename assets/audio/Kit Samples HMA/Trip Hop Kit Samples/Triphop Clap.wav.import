@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dvenv2yfgr1rt"
+path="res://.godot/imported/Triphop Clap.wav-ecea2f5592c46f6b32e560c33b2f0968.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Clap.wav"
+dest_files=["res://.godot/imported/Triphop Clap.wav-ecea2f5592c46f6b32e560c33b2f0968.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

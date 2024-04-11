@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://didpbvnhf8roe"
+path="res://.godot/imported/Triphop HH Closed.wav-43b3751de8bde397d419fd2abecc3ba5.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop HH Closed.wav"
+dest_files=["res://.godot/imported/Triphop HH Closed.wav-43b3751de8bde397d419fd2abecc3ba5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

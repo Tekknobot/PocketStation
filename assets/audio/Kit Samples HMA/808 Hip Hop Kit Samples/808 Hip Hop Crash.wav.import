@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://fql4ir6dfil5"
+path="res://.godot/imported/808 Hip Hop Crash.wav-175daea8370489966dba281c0db80025.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Crash.wav"
+dest_files=["res://.godot/imported/808 Hip Hop Crash.wav-175daea8370489966dba281c0db80025.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dfnobp6rvgw20"
+path="res://.godot/imported/Lofi Hip Hop Snare.wav-33a9613f8b6c10e00e714144011208b1.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Snare.wav"
+dest_files=["res://.godot/imported/Lofi Hip Hop Snare.wav-33a9613f8b6c10e00e714144011208b1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

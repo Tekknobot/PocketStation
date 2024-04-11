@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dy1hugjaqt0p2"
+path="res://.godot/imported/808 Hip Hop Snare.wav-e410bec7bc90d51fdac28b96970c20e1.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Snare.wav"
+dest_files=["res://.godot/imported/808 Hip Hop Snare.wav-e410bec7bc90d51fdac28b96970c20e1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

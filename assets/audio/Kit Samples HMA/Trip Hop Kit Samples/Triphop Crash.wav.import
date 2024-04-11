@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dur1p5w2uc5g4"
+path="res://.godot/imported/Triphop Crash.wav-cc519f8de4ce40648d7cb499a3e65e36.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Crash.wav"
+dest_files=["res://.godot/imported/Triphop Crash.wav-cc519f8de4ce40648d7cb499a3e65e36.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

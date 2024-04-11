@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dwxv86nn3lbnb"
+path="res://.godot/imported/909 Kick.wav-f6d769daa390e25a0b34a8d476ab1566.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Kick.wav"
+dest_files=["res://.godot/imported/909 Kick.wav-f6d769daa390e25a0b34a8d476ab1566.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://det1mmgv6sjkq"
+path="res://.godot/imported/Boombap Kit Loop.wav-1e91ef9daa242d78f2dc05f5b51e1ebe.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Kit Loop.wav"
+dest_files=["res://.godot/imported/Boombap Kit Loop.wav-1e91ef9daa242d78f2dc05f5b51e1ebe.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

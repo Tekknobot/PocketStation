@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dgd6q50wjtwfm"
+path="res://.godot/imported/Trip Hop Kit Loop.wav-ac24468c8083279a46c1e890951f7835.sample"
+
+[deps]
+
+source_file="res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Trip Hop Kit Loop.wav"
+dest_files=["res://.godot/imported/Trip Hop Kit Loop.wav-ac24468c8083279a46c1e890951f7835.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
