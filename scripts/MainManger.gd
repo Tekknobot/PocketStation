@@ -10,6 +10,8 @@ extends Node2D
 @export var rideArray: Array[Button]
 @export var rimArray: Array[Button]
 
+@export var pianoIndexArray: Array[Button]
+
 var time = 0 # current elapsed time in seconds
 var step = 0 # current beat
 var time_in_steps = 0
@@ -36,6 +38,7 @@ func _process(delta):
 			step = floor(time_in_steps)
 			# new beat has occured!
 			indexArray[x].disabled = false
+			pianoIndexArray[x].disabled = false
 			
 			if kickArray[x].button_pressed == true:
 				$KickStream.play()			
@@ -59,6 +62,7 @@ func _process(delta):
 				x = 0
 			else:
 				indexArray[x].disabled = true	
+				pianoIndexArray[x].disabled = true
 				
 			bpm = $Control/BPM_HSlider.value
 			$Control/BPM_HSlider/BPM_Label.text	= str(int(bpm))
