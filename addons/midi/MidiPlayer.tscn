@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cuyd1qv0pn26e"]
+
+[ext_resource type="Script" path="res://addons/midi/MidiPlayer.gd" id="1"]
+
+[node name="MidiPlayer" type="Node"]
+script = ExtResource("1")
+file = "res://midi/Beethoven-Opus-57.mid"
+playing = true
+soundfont = "res://soundfont/Yamaha_MA2.sf2"

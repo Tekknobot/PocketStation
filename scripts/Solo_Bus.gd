@@ -8,7 +8,7 @@ func _ready():
 	bus_index = AudioServer.get_bus_index(bus_name)
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
+func _process(_delta):
 	if button_pressed == true:	
 		AudioServer.set_bus_solo(bus_index, true)
 	else:

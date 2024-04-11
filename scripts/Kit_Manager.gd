@@ -14,7 +14,7 @@ func _ready():
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
+func _process(_delta):
 	if button_pressed == true and text == "1":	
 		$"../../../KickStream".stream = houseKit[0]
 		$"../../../SnareStream".stream = houseKit[1]
