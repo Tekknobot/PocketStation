@@ -91,8 +91,8 @@ func _process(delta):
 		# step != floor(time_in_steps) when this frame crosses into a new beat
 		if time == delta or step != floor(time_in_steps):
 			step = floor(time_in_steps)
-			print(step)
-			print(time_in_steps)
+			#print(step)
+			#print(time_in_steps)
 			
 			# new beat has occured!
 			pianoIndexArray[x].disabled = false		

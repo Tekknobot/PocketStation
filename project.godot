@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="GDSiON Demo Project"
+config/name="PocketStation"
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 run/max_fps=60

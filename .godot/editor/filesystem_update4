@@ -1,2 +1,3 @@
 res://Main.tscn
 res://gui/PianoRoll.gd
+res://scripts/Timer_Node2d.gd
