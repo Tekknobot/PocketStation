@@ -1,0 +1,116 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1713308217
+default_bus_layout.tres::AudioBusLayout::8802733525220939680::1713308218::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1713307142::0::1::::<><>::
+icon.svg::CompressedTexture2D::4445326453064197773::1713014979::1713021236::1::::<><>::
+Main.gd::GDScript::-1::1713014979::0::1::::<>Control<>::
+Main.tscn::PackedScene::3742839422465729303::1713307571::0::1::::<><>::res://Main.gd<>res://gui/Visualizer.gd<>uid://13wsrwe0hcno::::res://icons/play.png<>uid://xh41omtsrrr7::::res://icons/godot.png<>res://gui/PianoRoll.gd<>res://gui/InstrumentSelector.gd<>uid://c37ayws6ebi88::::res://icons/arrow_left.png<>uid://bp1awbe5naawb::::res://icons/arrow_right.png<>res://scripts/BPMSelector.gd<>res://scripts/Timer_Node2d.gd<>uid://c2sw2yvigcjot::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Kick.wav<>uid://c6kfbfv5fdpqs::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Snare.wav<>res://scripts/ScrollContainerManager.gd<>uid://d372rhnxhxkbj::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 HH Closed.wav<>uid://y2ymbwc37fbt::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 HH Open.wav<>uid://cc4wq5i216xi::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Clap.wav<>uid://clg2ms2p64qve::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Crash.wav<>uid://dj063hdr61001::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Ride.wav<>uid://ctn3ftx5ny1lw::::res://assets/audio/Kit Samples HMA/707 Kit Samples/707 Rim.wav<>res://scripts/ToggleContainers.gd<>res://scripts/Vol_Slider.gd<>res://scripts/KitButtonManager.gd<>uid://bd3udg1mm85l1::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Kick.wav<>res://scripts/SoloButton.gd<>uid://dy1hugjaqt0p2::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Snare.wav<>uid://jomfivv4ma0::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Rim.wav<>uid://ngoyjlg4lxpx::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Clap.wav<>uid://dtw4vbhwnhttr::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop HH Closed.wav<>uid://dhy1gbogwt1jm::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop HH Open.wav<>uid://fql4ir6dfil5::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Crash.wav<>uid://be8mlguk7imgm::::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/808 Hip Hop Ride.wav<>uid://dwxv86nn3lbnb::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Kick.wav<>uid://1tt4gby343tb::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Snare.wav<>uid://ckvp8j0u0b8cd::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Rim.wav<>uid://bkdy8hc5t7og3::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Clap.wav<>uid://7nri2ncbhptb::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 HH Closed.wav<>uid://b0j00mmr4p7ee::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 HH Open.wav<>uid://caamrgrwg701s::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Crash.wav<>uid://cqstmiqe27bng::::res://assets/audio/Kit Samples HMA/909 House Kit Samples/909 Ride.wav<>uid://c0egtq4r7s5e0::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Kick.wav<>uid://b3jgu565ymtrk::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Snare.wav<>uid://bphsm2umtl8xn::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Rim.wav<>uid://w21rm4ye10d3::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Clap.wav<>uid://dkr8wdlgdth5y::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap HH Closed.wav<>uid://bnv8eoqxhhda7::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap HH Open.wav<>uid://b1iq3qblevxna::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Crash.wav<>uid://clx8olb35ju28::::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/Boombap Ride.wav<>uid://cshkcro01g8pf::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Kick.wav<>uid://dfnobp6rvgw20::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Snare.wav<>uid://crajhv625b5om::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Rim.wav<>uid://bewgt3nqr5nvv::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Clap.wav<>uid://cgfk5mxhfu60s::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop HH Closed.wav<>uid://do2ankkshevcg::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop HH Open.wav<>uid://hbaltdrxvb6q::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Crash.wav<>uid://djvqyxfey0h2b::::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/Lofi Hip Hop Ride.wav<>uid://e2wajqjjy3k1::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Kick.wav<>uid://d0cw7vpsq4ewa::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Snare.wav<>uid://bifaxpbpnu8iv::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Rim.wav<>uid://d1tsk6n4pefj::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Clap.wav<>uid://b2xeks447mmbq::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno HH Closed.wav<>uid://yms6hat5g8xi::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno HH Open.wav<>uid://xc2jln2clm7a::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Crash.wav<>uid://c055mycbknwfg::::res://assets/audio/Kit Samples HMA/Techno Kit Samples/Techno Ride.wav<>uid://48vp2lxxix6h::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Kick.wav<>uid://bobi2ps7gp2lv::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Snare.wav<>uid://itjhhv4p1r13::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Rim.wav<>uid://dvenv2yfgr1rt::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Clap.wav<>uid://didpbvnhf8roe::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop HH Closed.wav<>uid://cw16yapkmgtiu::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop HH Open.wav<>uid://dur1p5w2uc5g4::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Crash.wav<>uid://bv174xvode30t::::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/Triphop Ride.wav
+project_theme.tres::Theme::3290120354088855485::1713014979::0::1::::<><>::uid://y70lqerdtol1::::res://fonts/Kenney Future Narrow.ttf
+::res://assets/::1713308144
+::res://assets/audio/::1713308144
+::res://assets/audio/Kit Samples HMA/::1713308144
+::res://assets/audio/Kit Samples HMA/707 Kit Samples/::1713308144
+707 Clap.wav::AudioStreamWAV::146307410158677266::1712862093::1713059884::1::::<><>::
+707 Crash.wav::AudioStreamWAV::5558966690114608902::1712862093::1713059884::1::::<><>::
+707 HH Closed.wav::AudioStreamWAV::9192279867176393627::1712862093::1713059884::1::::<><>::
+707 HH Open.wav::AudioStreamWAV::1741749170664244169::1712862093::1713059884::1::::<><>::
+707 Kick.wav::AudioStreamWAV::6706484228835333955::1712862093::1713059884::1::::<><>::
+707 Kit Loop.wav::AudioStreamWAV::981862903890032260::1712862093::1713059884::1::::<><>::
+707 Ride.wav::AudioStreamWAV::7844503689790931056::1712862093::1713059884::1::::<><>::
+707 Rim.wav::AudioStreamWAV::6134976346934143108::1712862093::1713059884::1::::<><>::
+707 Snare.wav::AudioStreamWAV::6969644964891064662::1712862093::1713059884::1::::<><>::
+::res://assets/audio/Kit Samples HMA/808 Hip Hop Kit Samples/::1713308144
+808 Hip Hop Clap.wav::AudioStreamWAV::925734620786053273::1712862093::1713059884::1::::<><>::
+808 Hip Hop Crash.wav::AudioStreamWAV::384694385059980972::1712862093::1713059884::1::::<><>::
+808 Hip Hop HH Closed.wav::AudioStreamWAV::8540064749607694315::1712862093::1713059884::1::::<><>::
+808 Hip Hop HH Open.wav::AudioStreamWAV::7701718453671722974::1712862093::1713059884::1::::<><>::
+808 Hip Hop Kick.wav::AudioStreamWAV::2656009844825524816::1712862093::1713059884::1::::<><>::
+808 Hip Hop Kit Loop.wav::AudioStreamWAV::8508434972451085558::1712862093::1713059884::1::::<><>::
+808 Hip Hop Ride.wav::AudioStreamWAV::2736049118308989320::1712862093::1713059884::1::::<><>::
+808 Hip Hop Rim.wav::AudioStreamWAV::19451143170673953::1712862093::1713059884::1::::<><>::
+808 Hip Hop Snare.wav::AudioStreamWAV::8897929183890595925::1712862093::1713059884::1::::<><>::
+::res://assets/audio/Kit Samples HMA/909 House Kit Samples/::1713308144
+909 Clap.wav::AudioStreamWAV::3096018764503648016::1712862093::1713059884::1::::<><>::
+909 Crash.wav::AudioStreamWAV::4773600672206443722::1712862093::1713059884::1::::<><>::
+909 HH Closed.wav::AudioStreamWAV::2273927820753494027::1712862093::1713059884::1::::<><>::
+909 HH Open.wav::AudioStreamWAV::4161284393726870004::1712862093::1713059884::1::::<><>::
+909 House Kit Loop.wav::AudioStreamWAV::1265696451844086192::1712862093::1713059884::1::::<><>::
+909 Kick.wav::AudioStreamWAV::8752232936441171511::1712862093::1713059884::1::::<><>::
+909 Ride.wav::AudioStreamWAV::5934197162679971700::1712862093::1713059884::1::::<><>::
+909 Rim.wav::AudioStreamWAV::5519051934964595875::1712862093::1713059884::1::::<><>::
+909 Snare.wav::AudioStreamWAV::1865338840615728223::1712862093::1713059884::1::::<><>::
+::res://assets/audio/Kit Samples HMA/Boombap Kit Samples/::1713308144
+Boombap Clap.wav::AudioStreamWAV::1601502435881013942::1712862093::1713059884::1::::<><>::
+Boombap Crash.wav::AudioStreamWAV::4228867956852415902::1712862093::1713059884::1::::<><>::
+Boombap HH Closed.wav::AudioStreamWAV::7898288032346120696::1712862093::1713059884::1::::<><>::
+Boombap HH Open.wav::AudioStreamWAV::3344239148858110644::1712862093::1713059884::1::::<><>::
+Boombap Kick.wav::AudioStreamWAV::6536219087382880265::1712862093::1713059884::1::::<><>::
+Boombap Kit Loop.wav::AudioStreamWAV::7480841314842672040::1712862093::1713059883::1::::<><>::
+Boombap Ride.wav::AudioStreamWAV::5594428578238210799::1712862093::1713059883::1::::<><>::
+Boombap Rim.wav::AudioStreamWAV::3454819767536289319::1712862093::1713059883::1::::<><>::
+Boombap Snare.wav::AudioStreamWAV::4370689348164312696::1712862093::1713059883::1::::<><>::
+::res://assets/audio/Kit Samples HMA/Lofi Hip Hop Kit Samples/::1713308144
+Lofi Hip Hop Clap.wav::AudioStreamWAV::2712992092362478291::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Crash.wav::AudioStreamWAV::493406930335271850::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop HH Closed.wav::AudioStreamWAV::5204957727865762544::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop HH Open.wav::AudioStreamWAV::8197667818201053294::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Kick.wav::AudioStreamWAV::6051302854359796983::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Kit Loop.wav::AudioStreamWAV::7861031124494346383::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Ride.wav::AudioStreamWAV::7835329123570711611::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Rim.wav::AudioStreamWAV::5966611814871196008::1712862093::1713059883::1::::<><>::
+Lofi Hip Hop Snare.wav::AudioStreamWAV::7537895840304794087::1712862093::1713059883::1::::<><>::
+::res://assets/audio/Kit Samples HMA/Techno Kit Samples/::1713308144
+Techno Clap.wav::AudioStreamWAV::265426693424949227::1712862093::1713059883::1::::<><>::
+Techno Crash.wav::AudioStreamWAV::1620128189201888392::1712862093::1713059883::1::::<><>::
+Techno HH Closed.wav::AudioStreamWAV::4329261867753971362::1712862093::1713059883::1::::<><>::
+Techno HH Open.wav::AudioStreamWAV::1710453414409431562::1712862093::1713059884::1::::<><>::
+Techno Kick.wav::AudioStreamWAV::337829845601549518::1712862093::1713059884::1::::<><>::
+Techno Kit Loop.wav::AudioStreamWAV::7402059584862399711::1712862093::1713059884::1::::<><>::
+Techno Ride.wav::AudioStreamWAV::6591337993978005296::1712862093::1713059884::1::::<><>::
+Techno Rim.wav::AudioStreamWAV::2958295184922256441::1712862093::1713059884::1::::<><>::
+Techno Snare.wav::AudioStreamWAV::8919505943786834660::1712862093::1713059884::1::::<><>::
+::res://assets/audio/Kit Samples HMA/Trip Hop Kit Samples/::1713308144
+Trip Hop Kit Loop.wav::AudioStreamWAV::7588500660980908982::1712862093::1713059884::1::::<><>::
+Triphop Clap.wav::AudioStreamWAV::8642313556513843013::1712862093::1713059884::1::::<><>::
+Triphop Crash.wav::AudioStreamWAV::8599740385319266705::1712862093::1713059884::1::::<><>::
+Triphop HH Closed.wav::AudioStreamWAV::7727879597530000668::1712862093::1713059884::1::::<><>::
+Triphop HH Open.wav::AudioStreamWAV::6372594858500661216::1712862093::1713059884::1::::<><>::
+Triphop Kick.wav::AudioStreamWAV::2104904211342975953::1712862093::1713059884::1::::<><>::
+Triphop Ride.wav::AudioStreamWAV::3916056194607345573::1712862093::1713059884::1::::<><>::
+Triphop Rim.wav::AudioStreamWAV::601293281366685812::1712862093::1713059884::1::::<><>::
+Triphop Snare.wav::AudioStreamWAV::3371663641876482511::1712862093::1713059884::1::::<><>::
+::res://assets/ui/::1713308144
+::res://assets/ui/icon/::1713308144
+icon_android.png::CompressedTexture2D::4126172692479834621::1713214971::1713214973::1::::<><>::
+::res://bin/::1713308208
+libgdsion.gdextension::GDExtension::-1::1713014980::0::1::::<><>::
+::res://bin/libgdsion.macos.template_debug.framework/::1713308144
+::res://bin/libgdsion.macos.template_release.framework/::1713308144
+::res://fonts/::1713308144
+Kenney Future Narrow.ttf::FontFile::1752130751324800048::1713014979::1713021236::1::::<><>::
+License.txt::TextFile::-1::1713014979::0::1::::<><>::
+::res://globals/::1713308144
+Controller.gd::GDScript::-1::1713014979::0::1::::<>Node<>::
+MusicPlayer.gd::GDScript::-1::1713014979::0::1::::MusicPlayer<>Object<>::
+VoiceManager.gd::GDScript::-1::1713014979::0::1::::VoiceManager<>Object<>::
+::res://gui/::1713308144
+InstrumentSelector.gd::GDScript::-1::1713114342::0::1::::<>HBoxContainer<>::
+PianoRoll.gd::GDScript::-1::1713206041::0::1::::<>Control<>::
+Visualizer.gd::GDScript::-1::1713243696::0::1::::<>Control<>::
+::res://icons/::1713308144
+arrow_left.png::CompressedTexture2D::6804233121168815051::1713014979::1713021236::1::::<><>::
+arrow_right.png::CompressedTexture2D::3492966507418052349::1713014979::1713021236::1::::<><>::
+godot.png::CompressedTexture2D::1630602026137488558::1713014979::1713021236::1::::<><>::
+play.png::CompressedTexture2D::1884081356931743640::1713014979::1713021236::1::::<><>::
+::res://player/::1713308144
+Drumkit.gd::GDScript::-1::1713014979::0::1::::Drumkit<>Object<>::
+Instrument.gd::GDScript::-1::1713014979::0::1::::Instrument<>Object<>::
+::res://scripts/::1713308144
+BPMSelector.gd::GDScript::-1::1713119083::0::1::::<>HBoxContainer<>::
+KitButtonManager.gd::GDScript::-1::1713063796::0::1::::<>Button<>::
+MuteButton.gd::GDScript::-1::1713063048::0::1::::<>Button<>::
+ScrollContainerManager.gd::GDScript::-1::1713295564::0::1::::<>ScrollContainer<>::
+SoloButton.gd::GDScript::-1::1713063048::0::1::::<>Button<>::
+Timer_Node2d.gd::GDScript::-1::1713307571::0::1::::<>Node2D<>::
+ToggleContainers.gd::GDScript::-1::1713203231::0::1::::<>Button<>::
+Vol_Slider.gd::GDScript::-1::1713062296::0::1::::<>VSlider<>::
